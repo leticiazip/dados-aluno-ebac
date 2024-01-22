@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Letícia
+-Profissão: Analista de Testes - Júnior
+-Cidade: Novo Hamburgo
+-O que faz nas horas vagas: Gosto de jogar e assistir filmes/séries.
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante, aprendendo coisas novas e me aprofundando naquilo que já sabia.
+-Feedback sobre a plataforma de estudo da EBAC: Está sendo boa até então (:
 
 Obrigado!!!
-
-
